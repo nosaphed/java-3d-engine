@@ -3,7 +3,7 @@ code instructed by sheeptheelectric via instructable
 
 To compile using terminal:
 ```bash
-javac Game.java Texture.java Screen.java
+javac Game.java Texture.java Screen.java Camera.java
 java Game
 ```
 
