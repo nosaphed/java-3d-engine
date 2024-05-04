@@ -3,6 +3,7 @@ import java.io.File;
 import java.io.IOException;
 import javax.imageio.ImageIO;
 
+//rename
 public class Texture {
 	public int[] pixels;
 	private String loc;
