@@ -1,4 +1,4 @@
-a 3d engine tied up with fps classic Doom (1993) by idSoftware homage
+a 3d engine homage to fps classic Doom (1993) by idSoftware
 code instructed by sheeptheelectric via instructable
 
 To compile using terminal:
